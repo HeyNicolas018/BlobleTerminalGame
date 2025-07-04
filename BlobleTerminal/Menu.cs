@@ -41,7 +41,9 @@ namespace BlobleTerminal
         public static void Jogando()
             {
             Console.Clear();
-            Console.WriteLine("A");
+            Console.Write(" .----------------. \r\n| .--------------. |\r\n| |      _       | |\r\n| |   /\\| |/\\    | |\r\n| |   \\     /    | |\r\n| |  |_     _|   | |\r\n| |   /     \\    | |\r\n| |   \\/|_|\\/    | |\r\n| |              | |\r\n| '--------------' |\r\n '----------------'\r\n ");
+            Console.WriteLine("         _\r\n         | |\r\n         | |\r\n         | |\r\n         | |\r\n         |_|\r\n          _\r\n         | |\r\n         | |\r\n         | |\r\n         | |\r\n         |_|\r\n");
+            Console.WriteLine(" .----------------. \r\n| .--------------. |\r\n| |      _       | |\r\n| |   /\\| |/\\    | |\r\n| |   \\     /    | |\r\n| |  |_     _|   | |\r\n| |   /     \\    | |\r\n| |   \\/|_|\\/    | |\r\n| |              | |\r\n| '--------------' |\r\n '----------------'  ");
             Console.ReadLine();
         }
     }
